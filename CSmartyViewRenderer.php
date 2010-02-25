@@ -2,7 +2,7 @@
 /**
  * CSmartyViewRenderer class file.
  *
- * @author Svilen Spasov <s.spasov@gmail.com>
+ * @author Svilen Spasov <svilen@svilen.com>
  */
 
 /**
@@ -21,7 +21,7 @@
  * </pre>
  *
  * CSmartyViewRenderer allows you to write view files with the Smarty syntax:
- * @author Svilen Spasov <s.spasov@gmail.com>
+ * @author Svilen Spasov <svilen@svilen.com>
  * @version 1.3
  * @package system.web.renderers
  * @since 2010-02-25
